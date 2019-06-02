@@ -1,7 +1,7 @@
 // Hours
-const myHours =
+const myHours = { 
       
-{ 
+      
 "Monday": " 4PM-7PM "
 , 
 "Tuesday": " Closed "
@@ -15,4 +15,6 @@ const myHours =
 "Saturday": " 9AM-10:30AM "
 , 
 "Sunday": " Closed "
+      
+      
 }
