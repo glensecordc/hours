@@ -4,7 +4,7 @@ const myHours =
 { 
 "Monday": " 4PM-7PM "
 , 
-"Tuesday": " Closed "
+"Tuesday": " Fish "
 , 
 "Wednesday": " 4PM-7PM "
 ,
